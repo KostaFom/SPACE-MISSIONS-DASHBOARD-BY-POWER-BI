@@ -1,6 +1,6 @@
-# Space Missions Dashboard Analysis #
-## Objective: ##
-### The objective of this project is to analyze space missions data to identify trends and patterns over time. Specifically, we aim to address the following questions: ###
+# Netzwerk Dashboard Analysis #
+## Zielsetzung ##
+### --The objective of this project is to analyze space missions data to identify trends and patterns over time. Specifically, we aim to address the following questions:-- ###
 
 ### 1.How have rocket launches trended across time? Has the mission success rate increased? ###
 ### 2. Which countries have had the most successful space missions? Has it always been that way? ###
